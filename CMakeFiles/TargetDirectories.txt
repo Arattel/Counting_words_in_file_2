@@ -1,0 +1,3 @@
+/home/arattel/CLionProjects/Syzonov_conting_words_in_file_2/CMakeFiles/rebuild_cache.dir
+/home/arattel/CLionProjects/Syzonov_conting_words_in_file_2/CMakeFiles/Counting_words_in_file.dir
+/home/arattel/CLionProjects/Syzonov_conting_words_in_file_2/CMakeFiles/edit_cache.dir
